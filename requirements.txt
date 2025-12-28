@@ -1,0 +1,17 @@
+
+langchain==1.2.0
+langchain-core
+langchain-community==0.4.1
+langchain-groq
+langgraph
+langgraph-checkpoint==3.0.1
+uvicorn
+streamlit==1.47.1 
+fastapi==0.121.2
+lxml
+faiss-cpu==1.13.1
+sentence_transformers==5.2.0
+langchain-huggingface==1.2.0
+GitPython
+python-dotenv
+-e .
